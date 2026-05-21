@@ -1,6 +1,4 @@
-# postman-api-testing
-REST API Testing using Postman and JSONPlaceholder
-
+# Postman-api-testing
 
 # REST API Testing using Postman and JSONPlaceholder
 
